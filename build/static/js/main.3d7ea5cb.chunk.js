@@ -1,0 +1,2 @@
+(this.webpackJsonpeipML=this.webpackJsonpeipML||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var r=n(0),c=n.n(r),i=n(2),o=function(){return c.a.createElement("div",null,"test")};n.n(i).a.render(c.a.createElement(o,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.3d7ea5cb.chunk.js.map
