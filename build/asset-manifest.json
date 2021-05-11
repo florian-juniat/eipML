@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/eipML/static/js/main.3d7ea5cb.chunk.js",
-    "main.js.map": "/eipML/static/js/main.3d7ea5cb.chunk.js.map",
+    "main.css": "/eipML/static/css/main.4aed9568.chunk.css",
+    "main.js": "/eipML/static/js/main.b92d2fe2.chunk.js",
+    "main.js.map": "/eipML/static/js/main.b92d2fe2.chunk.js.map",
     "runtime-main.js": "/eipML/static/js/runtime-main.495ab075.js",
     "runtime-main.js.map": "/eipML/static/js/runtime-main.495ab075.js.map",
-    "static/js/2.2ffb3cf0.chunk.js": "/eipML/static/js/2.2ffb3cf0.chunk.js",
-    "static/js/2.2ffb3cf0.chunk.js.map": "/eipML/static/js/2.2ffb3cf0.chunk.js.map",
+    "static/js/2.7bff6760.chunk.js": "/eipML/static/js/2.7bff6760.chunk.js",
+    "static/js/2.7bff6760.chunk.js.map": "/eipML/static/js/2.7bff6760.chunk.js.map",
     "index.html": "/eipML/index.html",
-    "precache-manifest.d3f7e10d2c533bf7eedd8528857a257d.js": "/eipML/precache-manifest.d3f7e10d2c533bf7eedd8528857a257d.js",
+    "precache-manifest.3cf7401c10cb3cac5300e68b749a9eed.js": "/eipML/precache-manifest.3cf7401c10cb3cac5300e68b749a9eed.js",
     "service-worker.js": "/eipML/service-worker.js",
-    "static/js/2.2ffb3cf0.chunk.js.LICENSE.txt": "/eipML/static/js/2.2ffb3cf0.chunk.js.LICENSE.txt"
+    "static/css/main.4aed9568.chunk.css.map": "/eipML/static/css/main.4aed9568.chunk.css.map",
+    "static/js/2.7bff6760.chunk.js.LICENSE.txt": "/eipML/static/js/2.7bff6760.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.495ab075.js",
-    "static/js/2.2ffb3cf0.chunk.js",
-    "static/js/main.3d7ea5cb.chunk.js"
+    "static/js/2.7bff6760.chunk.js",
+    "static/css/main.4aed9568.chunk.css",
+    "static/js/main.b92d2fe2.chunk.js"
   ]
 }

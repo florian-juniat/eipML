@@ -48,7 +48,7 @@ const App = () => {
       <p> Pourcentage avancement: {info.pourcentage} % </p>
       <img className="photo" src={info.state == "ok" ? vert : rouge} alt="Logo" />
       <p style={{color: "red"}}>{error}</p>
-      <Button onclick="refresh()" variant="primary">
+      <Button onClick={refresh} variant="primary">
         Refresh
       </Button>
     </div>
